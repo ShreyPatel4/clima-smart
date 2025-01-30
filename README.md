@@ -44,8 +44,6 @@ Our dataset source is the [OpenMeteo API](https://archive-api.open-meteo.com/v1/
 | precip_rolling_sum_24h    | Feature  | Float      | 24-hour rolling sum of precipitation            | mm     | Yes            |
 | wind_category             | Feature  | Categorical| Wind category based on speed                    | -      | Yes            |
 
-## Project Scope
-[Project Scope Document](reports/Project_Scoping_Group_8.pdf)
 
 ## Git Repository Structure
 
